@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "core_esp8266_wiring.c": "cpp",
+        "libc_replacements.c": "cpp",
+        "core_esp8266_wiring_digital.c": "cpp"
+    }
+}
