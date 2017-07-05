@@ -1,6 +1,6 @@
 .pioenvs
 .piolibdeps
 
-.vscode\*.DB
-.vscode\*.DB-shm
-.vscode\*.DB-wal
+.vscode/*.DB
+.vscode/*.DB-shm
+.vscode/*.DB-wal
